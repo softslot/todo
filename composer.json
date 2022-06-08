@@ -1,0 +1,15 @@
+{
+    "name": "softslot/todo",
+    "description": "PHP ToDo CLI App",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+    },
+    "authors": [
+        {
+            "name": "Konstantin Korolenko",
+            "email": "softslot-com@yandex.ru"
+        }
+    ],
+    "require": {}
+}
