@@ -4,6 +4,9 @@
     "type": "library",
     "license": "MIT",
     "autoload": {
+        "files": [
+            "src/Cli.php"
+        ]
     },
     "bin": [
         "/bin/todo"
