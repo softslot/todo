@@ -5,6 +5,9 @@
     "license": "MIT",
     "autoload": {
     },
+    "bin": [
+        "/bin/todo"
+    ],
     "authors": [
         {
             "name": "Konstantin Korolenko",
